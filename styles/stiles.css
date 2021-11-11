@@ -1,0 +1,200 @@
+/* Conteiner*/
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #ffffff;
+  width: 1280px;
+}
+
+/*my container style*/
+
+.intro {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #ffffff;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 11px;
+  width: 1200px;
+  margin: 0 auto;
+}
+/* box_me */
+.intro_me {
+  padding: 105px 90px;
+}
+/* intro_me */
+
+.title_2_me {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+.title_1_me {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+}
+.intro_text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 400px;
+}
+/* intro_project */
+.intro_project {
+  margin: 0;
+  padding-top: 25px;
+  width: 485px;
+}
+.title_project,
+.title_work,
+.title_education {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+}
+.list_project {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  padding: 0;
+  margin-left: 15px;
+}
+.list_marck {
+  padding: 0 0 0 20px;
+}
+.list_link,
+.list_link_splash {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  transition: color 0.3s liner;
+}
+.list_link_splash:hover {
+  color: rgb(0, 0, 0);
+}
+.list {
+  padding-left: 15px;
+}
+.list,
+.list_bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+/* work */
+.work {
+  margin: 0;
+  padding-top: 35px;
+}
+.intro_work,
+.intro_education {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
+.date_work,
+.date_education {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+.line_date {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
+.list_work {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding: 0px;
+  margin-left: 15px;
+}
+/* education */
+.education {
+  margin: 0;
+  padding: 0px;
+}
+/*sidebar style*/
+.sidebar {
+  margin: 10px;
+  background-color: #1e2939;
+  padding-top: 40px;
+  width: 370px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+/* foto */
+.foto {
+  margin-bottom: 50px;
+}
+.contact,
+.skills,
+.soft_skills {
+  margin-left: 40px;
+}
+/* title_contact */
+.title_contact,
+.title_skills,
+.title_soft {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+}
+/* splash_contact */
+.splash_contact {
+  font-size: 14px;
+  font-weight: normal;
+  color: #ffffff;
+  opacity: 50%;
+  transition: color 0.3s liner;
+}
+.splash_contact:hover {
+  color: rgb(255, 255, 255);
+  opacity: 100%;
+}
+.skills {
+  margin-top: 50px;
+}
+/* list_skills */
+.list_skills,
+.list_title_soft {
+  color: #fb6d3a;
+}
+.soft_skills {
+  margin-top: 50px;
+}
+/* text_list_skills */
+.text_list_skills,
+.text_list_soft {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}

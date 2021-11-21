@@ -17,27 +17,27 @@ body {
   width: 1200px;
   margin: 0 auto;
 }
-/* box_me */
-.intro_me {
+/* box-me */
+.intro-me {
   padding: 105px 90px;
 }
-/* intro_me */
+/* intro-me */
 
-.title_2_me {
+.title-2-me {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
   line-height: 17px;
   color: #000000;
 }
-.title_1_me {
+.title-1-me {
   font-style: normal;
   font-weight: bold;
   font-size: 45px;
   line-height: 55px;
   color: #000000;
 }
-.intro_text {
+.intro-text {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -45,22 +45,22 @@ body {
   color: #595959;
   width: 400px;
 }
-/* intro_project */
-.intro_project {
+/* intro-project */
+.intro-project {
   margin: 0;
   padding-top: 25px;
   width: 485px;
 }
-.title_project,
-.title_work,
-.title_education {
+.title-project,
+.title-work,
+.title-education {
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
   line-height: 27px;
   color: #000000;
 }
-.list_project {
+.list-project {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -69,11 +69,11 @@ body {
   padding: 0;
   margin-left: 15px;
 }
-.list_marck {
+.list-marck {
   padding: 0 0 0 20px;
 }
-.list_link,
-.list_link_splash {
+.list-link,
+.list-link-splash {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -81,14 +81,14 @@ body {
   color: #595959;
   transition: color 0.3s liner;
 }
-.list_link_splash:hover {
+.list-link-splash:hover {
   color: rgb(0, 0, 0);
 }
 .list {
   padding-left: 15px;
 }
 .list,
-.list_bracket {
+.list-bracket {
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
@@ -100,29 +100,29 @@ body {
   margin: 0;
   padding-top: 35px;
 }
-.intro_work,
-.intro_education {
+.intro-work,
+.intro-education {
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
   color: #000000;
 }
-.date_work,
-.date_education {
+.date-work,
+.date-education {
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
   color: #a8a8a8;
 }
-.line_date {
+.line-date {
   font-weight: normal;
   font-size: 12px;
   line-height: 15px;
   color: #000000;
 }
-.list_work {
+.list-work {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -154,44 +154,44 @@ body {
 }
 .contact,
 .skills,
-.soft_skills {
+.soft-skills {
   margin-left: 40px;
 }
-/* title_contact */
-.title_contact,
-.title_skills,
-.title_soft {
+/* title-contact */
+.title-contact,
+.title-skills,
+.title-soft {
   font-style: normal;
   font-weight: bold;
   font-size: 22px;
   line-height: 27px;
 }
-/* splash_contact */
-.splash_contact {
+/* splash-contact */
+.splash-contact {
   font-size: 14px;
   font-weight: normal;
   color: #ffffff;
   opacity: 50%;
   transition: color 0.3s liner;
 }
-.splash_contact:hover {
+.splash-contact:hover {
   color: rgb(255, 255, 255);
   opacity: 100%;
 }
 .skills {
   margin-top: 50px;
 }
-/* list_skills */
-.list_skills,
-.list_title_soft {
+/* list-skills */
+.list-skills,
+.list-title-soft {
   color: #fb6d3a;
 }
-.soft_skills {
+.soft-skills {
   margin-top: 50px;
 }
-/* text_list_skills */
-.text_list_skills,
-.text_list_soft {
+/* text-list-skills */
+.text-list-skills,
+.text-list-soft {
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
